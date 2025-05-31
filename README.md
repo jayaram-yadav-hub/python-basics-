@@ -1,2 +1,4 @@
 # python-basics-
-This repository contains basic Python programs for practice
+print("Hello, GitHub! I am learning Python step by step.")
+print("This is my updated program.")
+
